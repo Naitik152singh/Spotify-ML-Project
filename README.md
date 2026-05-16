@@ -271,15 +271,4 @@ This project demonstrates how machine learning algorithms can be applied to Spot
 
 ---
 
-# Author
-
-**Your Name**
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-
----
-
-# License
-
 This project is licensed under the MIT License.
