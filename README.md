@@ -272,4 +272,8 @@ This project demonstrates how machine learning algorithms can be applied to Spot
 
 ---
 
+# Deployment Link
+https://spotify-song-recomendation-169.streamlit.app/
+
+---
 
